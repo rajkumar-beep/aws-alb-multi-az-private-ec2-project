@@ -164,7 +164,7 @@ Result:
 
 ## EC2 Instances
 
-![EC2](screenshots/ec2.png)
+#![EC2](screenshots/ec2.png)
 
 ## Application Load Balancer
 
